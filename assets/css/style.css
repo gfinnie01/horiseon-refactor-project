@@ -115,7 +115,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* TODO: reduce the amount of css because three below have the same style */
+/*  reduce the amount of css because three below have the same style */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -127,16 +127,10 @@ p {
     color: #ffffff;
 }
 
-/* TODO: opptimize three below put into one */
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img{
+/*  opptimize three below put into one */
+.search-engine-optimization img,
+.online-reputation-management img,
+.social-media-marketing img {
     max-height: 200px;
 }
 
